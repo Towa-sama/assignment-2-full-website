@@ -1,0 +1,120 @@
+body {
+	font-family: "Berlin Sans FB";
+	background-color: #ffd6be;
+}
+ul {
+	margin: 0;
+	padding: 0;
+}
+.underline:hover {
+	text-decoration: underline;
+}
+nav a {
+	text-decoration: none;
+	color: black;
+	text-transform: uppercase;
+  font-size: 25px;
+	padding: 10px;
+	margin-left: 70px;
+}
+section {
+	position: relative;
+}
+header nav {
+	float: left;
+	padding: 25px 25px 0 0;
+}
+
+header nav li {
+	display: inline;
+	padding: 0 0 0 40px;
+}
+.img1 img {
+	display: block;
+	float: left;
+}
+.img2 img {
+	display: block;
+	float: left;
+}
+.img3 img {
+	display: block;
+	float: left;
+  position: relative;
+	
+}
+
+.welcome-text-box {
+	position: absolute;
+  left: 170px;
+	top: 170px;
+	text-align: center;
+	text-transform: uppercase;
+	width: 310px;
+	height: 150px;
+	background-color: #1f625a;
+	color: #ffe19e;
+}
+footer ul {
+	list-style-type: none;
+	float: left;
+	display: inline;
+	padding: 0 0 50px 150px;
+}
+
+footer .line1 {
+	position: relative;
+	left: 477px;
+	height: 90px;
+}
+
+footer .line2 {
+	position: relative;
+	left: 773px;
+	height: 90px;
+}
+.specials {
+	text-transform: uppercase;
+	text-align: center;
+	float: left;
+	width: 400px;
+	height: 232px;
+	background-color: #824344;
+	color: #ffd6be;
+}
+.container {
+  position: relative;
+}
+.commentary {
+	float: left;
+	font-size: 20px;
+	width: 359px;
+	height: 192px;
+	padding: 20px;
+	text-align: center;
+	background-color: #b7a172;
+	color: #ffe19e;
+}
+.buy-now-button {
+	text-transform: uppercase;
+	position: absolute;
+	right: 710px;
+	top: 360px;
+	padding: 5px 30px 5px 30px;
+	font-size: 25px;
+	background-color: #9e1b1b;
+	color: #ffe19e;
+}
+.news {
+  position: absolute;
+  right: 30px;
+  top: 233px;
+  float: left;
+	font-size: 35px;
+	width: 359px;
+	height: 269px;
+	padding: 20px;
+	text-align: center;
+	background-color: #ca9e27;
+	color: #ffe19e;
+}

@@ -1,0 +1,63 @@
+body {
+	font-family: "Berlin Sans FB";
+	background-color: #ffd6be;
+}
+ul {
+	margin: 0;
+	padding: 0;
+}
+.underline:hover {
+	text-decoration: underline;
+}
+nav a {
+	text-decoration: none;
+	color: black;
+	text-transform: uppercase;
+  font-size: 25px;
+	padding: 10px;
+	margin-left: 70px;
+}
+section {
+	position: relative;
+}
+header nav {
+	float: left;
+	padding: 25px 25px 0 0;
+}
+
+header nav li {
+	display: inline;
+	padding: 0 0 0 40px;
+}
+footer a {
+	text-decoration: none;
+	color: black;
+}
+section p {
+	font-size: 25px;
+	margin: 65px 800px 0 80px;
+}
+
+section a {
+	text-decoration: none;
+	font-weight: bold;
+}
+
+footer ul {
+	list-style-type: none;
+	float: left;
+	display: inline;
+	padding: 0 0 50px 150px;
+}
+
+footer .line1 {
+	position: relative;
+	left: 477px;
+	height: 90px;
+}
+
+footer .line2 {
+	position: relative;
+	left: 773px;
+	height: 90px;
+}
