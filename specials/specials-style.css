@@ -63,7 +63,6 @@ div.name {
 }
 
 footer {
-	position: relative;
 	width: 1424px;
 	margin: auto;
 	padding: 25px 0 80px 0;
@@ -80,14 +79,14 @@ footer ul {
 footer .line1 {
 	position: absolute;
 	left: 477px;
-	border: 1px;
+	border: 0px solid black;
 	height: 90px;
 }
 
 footer .line2 {
 	position: absolute;
 	left: 773px;
-	border: 1px; 
+	border: 0px solid black;
 	height: 90px;
 }
 
